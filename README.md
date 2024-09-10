@@ -1,2 +1,2 @@
-# Kolegija
-kolegijos darbai
+# Kolegijos darbai
+- [ ] githubas kolegijai
